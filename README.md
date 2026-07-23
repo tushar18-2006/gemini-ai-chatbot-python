@@ -38,9 +38,8 @@ The application provides a clean graphical interface where users can chat with G
 Gemini-AI-Chatbot/
 │
 ├── geminiChatBot.py
-├── requirements.txt
 ├── README.md
-└── Screenshot 2026-07-23 125351.png
+└── Gemini-Chat-Bot.png
 ```
 
 ---
@@ -50,7 +49,7 @@ Gemini-AI-Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gemini-ai-chatbot-python.git
+git clone https://github.com/tushar18-2006/gemini-ai-chatbot-python.git
 ```
 
 ### 2. Navigate to the project
@@ -84,7 +83,7 @@ geminiChatBot.py
 Replace
 
 ```python
-API_KEY = "YOUR_API_KEY"
+API_KEY = "AQ.Ab8RN6JicubkfelTdTiOvto0cihYFN2fzQ1FTCKGSBRIPfjtTA"
 ```
 
 with your own Gemini API key.
@@ -137,12 +136,6 @@ How can I help you today?
 Contributions are welcome!
 
 Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
